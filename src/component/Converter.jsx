@@ -45,7 +45,7 @@ const Converter = () => {
         Winrate Calculator for Mobile Legends
       </h1>
       <span className="px-6 py-2 bg-[#ffffff0d] border border-[#ffffff0d] rounded rounded-full text-center">
-        <h2 className="text-white">Made with 💜 by Eskey</h2>
+        <h2 className="text-white">kirimwa.id/xshoptopup</h2>
       </span>
       <section className="flex flex-col items-center justify-center w-full mt-10">
         <div className="w-full max-w-xs form-control">
